@@ -1,11 +1,7 @@
 {
   "name": "Socket-Chat-Example",
   "description": "my first socket.io app",
-  "website": "https://github.com/socketio/chat-example",
-  "repository": "https://github.com/socketio/chat-example",
-  "logo": "https://node-js-sample.herokuapp.com/node.svg",
-  "success_url": "/",
-  "keywords": [
+"keywords": [
     "node",
     "express",
     "socket.io",
@@ -15,8 +11,6 @@
   "scripts": {
   },
   "addons": [
-  ],
-  "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
-  }
+  ]
+  
 }
